@@ -1,51 +1,45 @@
 # 👋 Hi, I'm Saif Ullah Usmani
 
-### Full-Stack Software Engineer | Python, Django, Next.js & Cloud Infrastructure
+### Full-Stack Software Engineer | Python, Django, Next.js & DevOps
 
 I build scalable web applications, SaaS platforms, custom CRMs, internal tools, and business automation systems.
 
-With **7+ years of development experience**, I've worked on 50+ software projects, ranging from MVPs and SaaS products to complex business management platforms.
-
-I enjoy taking ideas from concept to production, building software that solves real business problems, and making systems reliable, maintainable, and scalable.
+With **7+ years of development experience** and experience across **50+ software projects**, I specialize in taking software from concept to production.
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-- **Full-Stack Development:** Python, Django, Django REST Framework, React, Next.js, TypeScript.
-- **Backend Engineering:** REST APIs, WebSockets, Celery, asynchronous processing, microservices.
-- **SaaS Development:** Multi-tenant applications, subscription platforms, custom dashboards, and portals.
-- **Business Automation:** Custom CRMs, workflow automation, AI-powered integrations, and internal tools.
-- **Cloud & DevOps:** AWS, Docker, Linux, Nginx, CI/CD, server management, and deployment automation.
-- **Database Engineering:** PostgreSQL, MongoDB, Redis, and database optimization.
+- **Full-Stack Development:** Python, Django, DRF, React, Next.js, TypeScript.
+- **Backend Engineering:** REST APIs, WebSockets, Celery, asynchronous processing.
+- **SaaS Development:** Multi-tenant applications, subscription platforms, dashboards.
+- **Business Automation:** Custom CRMs, workflow automation, AI integrations.
+- **Cloud & DevOps:** AWS, Docker, Linux, Nginx, CI/CD.
+- **Database Engineering:** PostgreSQL, MongoDB, Redis, RabbitMQ.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
-`Python` `Django` `Django REST Framework` `JavaScript` `TypeScript` `React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+`Python` `Django` `DRF` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
-**Backend & Infrastructure**
+**Backend & Databases**
 
-`PostgreSQL` `MongoDB` `Redis` `Celery` `RabbitMQ` `WebSockets` `REST APIs`
+`PostgreSQL` `MongoDB` `Redis` `Celery` `RabbitMQ` `WebSockets`
 
 **Cloud & DevOps**
 
 `AWS` `Docker` `Linux` `Nginx` `Git` `GitHub Actions` `PM2` `Cloudflare`
 
-**Other Tools**
+**AI & Automation**
 
-`OpenAI API` `AI Integrations` `Automation` `Figma` `Postman`
+`OpenAI API` `AI Integrations` `Workflow Automation`
 
 ---
 
-### 💻 Products & Projects
+## 💻 Products & Projects
 
-I enjoy building and maintaining products that solve practical problems.
-
-**Keynou Ecosystem**
-
-A collection of tools and software products I've built:
+### Keynou Ecosystem
 
 | Product | Description |
 |---|---|
@@ -56,7 +50,7 @@ A collection of tools and software products I've built:
 | [Keynou Programming](https://programming.keynou.com/) | Programming resources and tools |
 | [Keynou Loot](https://loot.keynou.com/) | Digital tools and resources |
 
-**Selected Development Work**
+### Selected Development Projects
 
 - **Chopline:** Appointment and booking management system.
 - **Tutorium Plus:** Academy management platform with online classes, attendance tracking, and teacher management.
@@ -65,32 +59,22 @@ A collection of tools and software products I've built:
 
 ---
 
-### 🤝 Work With Me
+## 🤝 Let's Work Together
 
-I'm open to freelance projects, software development collaborations, and interesting engineering opportunities.
+I'm available for freelance projects, long-term collaborations, and interesting software engineering opportunities.
 
 - 💼 **Upwork:** [Hire me on Upwork](https://upwork.com/freelancers/saifullahusmani)
-- 🌐 **Agency:** [UsmaniLabs](https://usmanilabs.com/)
-- 🚀 **Personal Projects:** [Keynou](https://keynou.com/)
-- 📧 **Email:** freelance.saifullahusmani@gmail.com
+- 🎯 **Fiverr:** [fiverr.com/saifullah02](https://www.fiverr.com/saifullah02)
+- 🌐 **Personal Projects:** [Keynou](https://keynou.com/)
+- 📧 **Email:** [freelance.saifullahusmani@gmail.com](mailto:freelance.saifullahusmani@gmail.com)
 - 💻 **GitHub:** [@saifullahusmani693](https://github.com/saifullahusmani693)
 
 ---
 
-### 📊 GitHub Statistics
+## 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifullahusmani693&theme=github_dark&hide_border=true&show_icons=true&count_private=true" alt="Saif's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahusmani693&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahusmani693&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-</p>
+![GitHub Contribution Streak](https://streak-stats.demolab.com?user=saifullahusmani693&theme=github-dark-blue&hide_border=true)
 
 ---
 
-<p align="center">
-  <b>Building software that solves real problems.</b><br/>
-  <sub>Always learning. Always building. Always shipping. 🚀</sub>
-</p>
+**Build. Ship. Improve. Repeat.** 🚀
